@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Jogo da velha</string>
+    <string name="NovoJogo">NOVO JOGO</string>
+    <string name="ErrorGame">Modo de jogo não criado!</string>
+    <string name="StartPlayerGame">Inicializando Player VS Player!</string>
+    <string name="StartBotGame">Inicializando Bot VS Player!</string>
+    <string name="ValidaCampo">O campo não pode estar vazio!</string>
+</resources>
